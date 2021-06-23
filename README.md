@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eranda Upeshitha
-- 👀 I’m interested in practsing new things 
+- 👀 I’m interested in practising new things 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on good projects.
 - 📫 How to reach me upeshitha@gmail.com
