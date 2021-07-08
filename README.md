@@ -33,11 +33,11 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td width="250">
         <a href="https://github.com/Upeshitha/Convert-Excel-CSV-to-JSON-files">Convert Excel, CSV to JSON files</a><br />
         <a href="https://github.com/Upeshitha/Search-Files-in-Folder">Search Files in Folder</a>
       </td>
-      <td>
+      <td width="293">
         <a href="https://github.com/Upeshitha/Employee-Leave-Management-System">Employee Leave Management System</a>
       </td>
       <td width="178">
@@ -68,7 +68,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
       <td width="293">
         <a href="https://github.com/Upeshitha/Mood-Based-Food-Recommender">&nbsp;&nbsp; Mood Based Food Recommender</a>
       </td>
-      <td>
+      <td width="178">
         <a href="https://github.com/Upeshitha/Finger-Detection-App">Finger Detection App</a>
       </td>
     </tr>   
