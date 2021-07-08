@@ -23,32 +23,75 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 
 ### 💻 My other projects
 
-<table style="width: 80%;" >
+<table border="0" >
   <thead>
     <tr>
       <th>Java</th>
       <th>C#</th>
-      <th>Android</th>
+      <th>C++</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>---------------------</td>
-      <td>---------------------</td>
-      <td>---------------------</td>
+      <td>
+        <a href="https://github.com/Upeshitha/Convert-Excel-CSV-to-JSON-files">Convert Excel, CSV to JSON files</a><br />
+        <a href="https://github.com/Upeshitha/Search-Files-in-Folder">Search Files in Folder</a>
+      </td>
+      <td>
+        <a href="https://github.com/Upeshitha/Employee-Leave-Management-System">Employee Leave Management System</a>
+      </td>
+      <td width="178">
+        <a href="https://github.com/Upeshitha/Wall-Plotter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wall-Plotter</a>
+      </td>
+    </tr>   
+  </tbody>
+</table>
+
+<table style="width: 80%;" >
+  <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 45%;">
+   </colgroup>
+  <thead>
+    <tr>
+      <th>Android</th>
+      <th>Python</th>
+      <th>Html / CSS / JS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="250">
+        <a href="https://github.com/Upeshitha/Android-Piano"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Piano App </a>
+      </td>
+      <td width="293">
+        <a href="https://github.com/Upeshitha/Mood-Based-Food-Recommender">&nbsp;&nbsp; Mood Based Food Recommender</a>
+      </td>
+      <td>
+        <a href="https://github.com/Upeshitha/Finger-Detection-App">Finger Detection App</a>
+      </td>
     </tr>   
   </tbody>
 </table>
 
 ---
 
-### 📺 Latest YouTube Videos
+<details>
+  <summary><b>📺 Latest YouTube Videos </b></summary>
 
 - [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/-)
-
-
   
+</details>
 
+<details>
+  <summary><b>📕 Latest Blog Posts </b></summary>
+  
+- [Image Compression](https://ltcoders.com/image-compression/)
+- [Multimedia Indexing and Retrieving](https://ltcoders.com/multimedia-indexing-and-retrieving/)
+- [What Multimedia Means](https://ltcoders.com/what-multimedia-means/)
+  
+</details>
 
 <!---
 Upeshitha/Upeshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
