@@ -5,7 +5,7 @@
 
 Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jayewardenepura.
 
-- 🔭 I've recently completed my studies, and I am looking for an internship
+- 🔭 I've recently completed my studies, and looking for an internship
 - 🌱 I’m currently learning .NET, Spring, and Angular
 - 💞️ I’m looking to collaborate on industrial projects
 - 📫 How to reach me: upeshitha@gmail.com
@@ -13,7 +13,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 ### 📊 Currently working on a project 
 <table border=1>
   <tr>
-  ⚡ <a href="WWW.Udemy">Bookshop API</a>
+  ⚡ <a href="-">Bookshop API</a>
   <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ths is simple rest API
   </tr>
@@ -47,12 +47,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
   </tbody>
 </table>
 
-<table style="width: 80%;" >
-  <colgroup>
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 40%;">
-       <col span="1" style="width: 45%;">
-   </colgroup>
+<table>
   <thead>
     <tr>
       <th>Android</th>
@@ -80,8 +75,10 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 <details>
   <summary><b>📺 Latest YouTube Videos </b></summary>
 
-- [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/-)
-  
+- [C# - Array Tutorial](https://youtu.be/BvuBl3NSQp8)
+- [C# Access Modifiers - With real time practice](https://youtu.be/PLZNOZiEMJs)
+- [Tutorial on how to create a JAR files](https://youtu.be/eOVR9Dotef8)
+    
 </details>
 
 <details>
