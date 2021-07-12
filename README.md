@@ -13,9 +13,10 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 ### 📊 Currently working on a project 
 <table border=1>
   <tr>
-  ⚡ <a href="-">Bookshop API</a>
+  ⚡ <a href="https://github.com/Upeshitha/Employee-Leave-Management-System">Employee Leave Management System</a>
   <br />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ths is simple rest API
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This is a .NET Core web application <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Currently, I am using the AdminLTE Theme to add a modern look to the project
   </tr>
 </table>
 
