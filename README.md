@@ -13,7 +13,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 ### 📊 Currently working on a project 
 <table border=1>
   <tr>
-  ⚡ <a href="https://github.com/Upeshitha/Employee-Leave-Management-System">Employee Leave Management System</a>
+  ⚡ <a href="https://github.com/Upeshitha/Leave-Management-System">Leave Management System</a>
   <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This is a .NET Core web application <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Currently, I am using the AdminLTE Theme to add a modern look to the project
@@ -39,7 +39,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
         <a href="https://github.com/Upeshitha/Search-Files-in-Folder">Search Files in Folder</a>
       </td>
       <td width="293">
-        <a href="https://github.com/Upeshitha/Employee-Leave-Management-System">Employee Leave Management System</a>
+        <a href="https://github.com/Upeshitha/Leave-Management-System">Leave Management System</a>
       </td>
       <td width="178">
         <a href="https://github.com/Upeshitha/Wall-Plotter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wall-Plotter</a>
