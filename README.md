@@ -13,10 +13,10 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
 ### 📊 Currently working on a project 
 <table border=1>
   <tr>
-  ⚡ <a href="https://github.com/Upeshitha/Leave-Management-System">Leave Management System</a>
+  ⚡ <a href="https://github.com/Upeshitha/Task-Manager">Task Manager</a>
   <br />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This is a .NET Core web application <br />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Currently, I am using the AdminLTE Theme to add a modern look to the project
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This is an Angular project <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This application mainly targets managing the company's projects.
   </tr>
 </table>
 
