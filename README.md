@@ -65,6 +65,7 @@ Hi, I'm Eranda Upeshitha, an undergraduate student at the University of Sri Jaye
         <a href="https://github.com/Upeshitha/Mood-Based-Food-Recommender">&nbsp;&nbsp; Mood Based Food Recommender</a>
       </td>
       <td width="178">
+        <a href="https://github.com/Upeshitha/Leed-Tracker">Leed Tracker</a><br/>
         <a href="https://github.com/Upeshitha/Finger-Detection-App">Finger Detection App</a>
       </td>
     </tr>   
